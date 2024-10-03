@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDAMMADHUSSAIN
 - 👀 I’m interested in All computer science related activities
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Full Stack Devlopment
 - 💞️ I’m looking to collaborate on CSE related projects
 
 <!---
