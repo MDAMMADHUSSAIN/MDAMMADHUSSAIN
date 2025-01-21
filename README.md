@@ -1,13 +1,13 @@
 ## About Me
-- 👋 Hey there! I'm** `@MDAMMADHUSSAIN` **
+- 👋 Hey there! I'm **`@MDAMMADHUSSAIN`**
 - 🚀 Passionate Explorer of the vast world of Computer Science.
-- 🌱** Currently Building: **My journey as a Full Stack Developer.
-- 🔍** Always Curious About:** New technologies, scalable solutions, and impactful innovations.
+- 🌱**Currently Building:** My journey as a Full Stack Developer.
+- 🔍**Always Curious About:** New technologies, scalable solutions, and impactful innovations.
 - 💡 **Looking to Collaborate:** On exciting CSE-related projects that push boundaries and inspire creativity.
-- 🎯** Goal:** To create meaningful and efficient software that makes a difference.
+- 🎯 **Goal:** To create meaningful and efficient software that makes a difference.
 
 ## 📬 Let's Connect!
-- 📫** Drop me a line:** md.ammad.hussain@gmail.com
+- 📫**Drop me a line:** md.ammad.hussain@gmail.com
 - 
 
 <!---
